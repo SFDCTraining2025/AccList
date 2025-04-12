@@ -1,0 +1,108 @@
+{
+  "AccountList" : [ {
+    "Id" : "001aj00000t7UlTAAU",
+    "Name" : "Sample Account for Entitlements",
+    "AccountNumber" : "N/A",
+    "Industry" : "Banking"
+  }, {
+    "Id" : "001aj00000t7YldAAE",
+    "Name" : "Edge Communications",
+    "AccountNumber" : "CD451796",
+    "Industry" : "Banking"
+  }, {
+    "Id" : "001aj00000t7YleAAE",
+    "Name" : "Burlington Textiles Corp of America",
+    "AccountNumber" : "CD656092",
+    "Industry" : "Banking"
+  }, {
+    "Id" : "001aj00000t7YlfAAE",
+    "Name" : "Pyramid Construction Inc.",
+    "AccountNumber" : "CC213425",
+    "Industry" : "Banking"
+  }, {
+    "Id" : "001aj00000t7YlgAAE",
+    "Name" : "Dickenson plc",
+    "AccountNumber" : "CC634267",
+    "Industry" : "Banking"
+  }, {
+    "Id" : "001aj00000t7YlhAAE",
+    "Name" : "Grand Hotels & Resorts Ltd",
+    "AccountNumber" : "CD439877",
+    "Industry" : "Banking"
+  }, {
+    "Id" : "001aj00000t7YliAAE",
+    "Name" : "United Oil & Gas Corp.",
+    "AccountNumber" : "CD355118",
+    "Industry" : "Banking"
+  }, {
+    "Id" : "001aj00000t7YljAAE",
+    "Name" : "Express Logistics and Transport",
+    "AccountNumber" : "CC947211",
+    "Industry" : "Banking"
+  }, {
+    "Id" : "001aj00000t7YlkAAE",
+    "Name" : "University of Arizona",
+    "AccountNumber" : "CD736025",
+    "Industry" : "Banking"
+  }, {
+    "Id" : "001aj00000t7YllAAE",
+    "Name" : "United Oil & Gas, UK",
+    "AccountNumber" : "CD355119-A",
+    "Industry" : "Banking"
+  }, {
+    "Id" : "001aj00000t7YlmAAE",
+    "Name" : "United Oil & Gas, Singapore",
+    "AccountNumber" : "CD355120-B",
+    "Industry" : "Banking"
+  }, {
+    "Id" : "001aj00000t7YlnAAE",
+    "Name" : "GenePoint",
+    "AccountNumber" : "CC978213",
+    "Industry" : "Banking"
+  }, {
+    "Id" : "001aj00000t7YloAAE",
+    "Name" : "sForce",
+    "AccountNumber" : "N/A",
+    "Industry" : "Banking"
+  }, {
+    "Id" : "001aj00000vDYELAA4",
+    "Name" : "rwerwe",
+    "AccountNumber" : "N/A",
+    "Industry" : "Banking"
+  }, {
+    "Id" : "001aj00000ym34JAAQ",
+    "Name" : "TestAccount",
+    "AccountNumber" : "N/A",
+    "Industry" : "Banking"
+  }, {
+    "Id" : "001aj00000ymntVAAQ",
+    "Name" : "AccountForApex",
+    "AccountNumber" : "N/A",
+    "Industry" : "Banking"
+  }, {
+    "Id" : "001aj00000ymo6PAAQ",
+    "Name" : "AccountThroughApex",
+    "AccountNumber" : "N/A",
+    "Industry" : "Banking"
+  }, {
+    "Id" : "001aj0000105xAHAAY",
+    "Name" : "Testcase",
+    "AccountNumber" : "N/A",
+    "Industry" : "Banking"
+  }, {
+    "Id" : "001aj0000107XoLAAU",
+    "Name" : "TestOpportunity",
+    "AccountNumber" : "N/A",
+    "Industry" : "Banking"
+  }, {
+    "Id" : "001aj000010LFl9AAG",
+    "Name" : "Address",
+    "AccountNumber" : "N/A",
+    "Industry" : "Banking"
+  }, {
+    "Id" : "001aj000010xqYNAAY",
+    "Name" : "Testedit",
+    "AccountNumber" : "N/A",
+    "Industry" : "Banking"
+  } ]
+}
